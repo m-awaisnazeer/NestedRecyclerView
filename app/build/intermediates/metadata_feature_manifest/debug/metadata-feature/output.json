@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "METADATA_FEATURE_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.example.nestedrecyclerview",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [
+        {
+          "key": "packageId",
+          "value": "com.example.nestedrecyclerview"
+        },
+        {
+          "key": "split",
+          "value": ""
+        },
+        {
+          "key": "minSdkVersion",
+          "value": "16"
+        }
+      ],
+      "versionCode": 1,
+      "versionName": "1.0",
+      "enabled": true,
+      "outputFile": "AndroidManifest.xml"
+    }
+  ]
+}
